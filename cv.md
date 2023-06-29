@@ -2,7 +2,7 @@
 
 # Makush Bakhytbek
 
-![Me](Me.jpg)
+![Me](Me.jpeg)
 
 ## Junior Full-Stack Developer
 
