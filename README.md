@@ -1,1 +1,1 @@
-# rsschool-cv
+https://superxb.github.io/rsschool-cv/cv
